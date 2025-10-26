@@ -8,7 +8,7 @@ import json, pickle
 from collections import defaultdict, Counter
 from pathlib import Path
 
-INPUT_CSV = "preprocessing/decoded_synthetic_mimic3.csv"
+INPUT_CSV = "Dipole-master/preprocessing/decoded_synthetic_mimic3.csv"
 OUT_SEQ = "preprocessing/seqs.pkl"
 OUT_VOCAB = "preprocessing/vocab.json"
 
